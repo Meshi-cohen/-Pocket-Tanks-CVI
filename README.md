@@ -26,10 +26,10 @@ Reset game function to start fresh
 
 Start the game and enter both players’ names.
 Each turn, choose:
-*Angle of fire
-*Power (shot velocity)
-*Weapon type (single/double shot)
-*Move tank left/right if desired
+* Angle of fire
+* Power (shot velocity)
+* Weapon type (single/double shot)
+* Move tank left/right if desired
 Press FIRE to launch your shot.
 If you hit the opponent’s tank:
 Gain points based on weapon type
