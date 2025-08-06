@@ -1,4 +1,4 @@
-🎯 Pocket Tanks – CVI Project
+🎯 Pocket Tanks - CVI Project
 
 📌 Overview
 
@@ -11,10 +11,10 @@ The first player to reach 150 points wins the game.
 🛠 Features
 
 Two player turn based gameplay
-Adjustable angle (0°–90°) and power (0–120 km/h)
+Adjustable angle (0°–90°) and power (0-120 km/h)
 Two weapon types:
-* Single shot – 30 points for a direct hit
-* Double shot – 15 points per direct hit
+* Single shot - 30 points for a direct hit
+* Double shot - 15 points per direct hit
 Tank movement before firing
 Collision detection for tanks, terrain, and projectiles
 Real-time projectile trajectory simulation using physics equations
