@@ -37,7 +37,7 @@ Continue until one player reaches 150 points.
 
 
 ```plaintext
-assets/   - קבצי מדיה וגרפיקה (תמונות טנקים, לוגו וכו')
+images/   - קבצי מדיה וגרפיקה (תמונות טנקים, לוגו וכו')
 data/     - קבצי נתונים שהמשחק מייצר בזמן ריצה (למשל tankscore.txt)
 src/      - קוד המקור של המשחק (קבצי .c, .h, .uir)
 
